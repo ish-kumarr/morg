@@ -1,28 +1,28 @@
 {
     "about": {
-        "description": "P-Stream is a fork of movie-web that is ensured to stay up even after the shutdown of movie-web.app. P-Stream runs on a private, self-hosted VPS. I run this site at a loss; there are no ads due to my beliefs in free media.",
+        "description": "Netflish is a passion project by Ish, forked from movie-web. Hosted privately on netfl.ishkumar.com, Netflish offers ad-free streaming because Ish believes media should be free (and ridiculously fun!).",
         "faqTitle": "Common questions",
         "q1": {
-            "body": "P-Stream does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by P-Stream, everything is through this searching mechanism.",
+            "body": "Netflish, an Ish special, doesn't host content. Click to watch, and we scour the web for your media (check loading/sources tab for origins). Ish's Netflish uploads nothing; it's all magic searching.",
             "title": "Where does the content come from?"
         },
         "q2": {
-            "body": "It's not possible to request a show or movie, P-Stream does not manage any content. All content is viewed through sources on the internet.",
+            "body": "Can't request media directly, sorry! Ish's Netflish doesn't manage content; it's all sourced from the wild web.",
             "title": "Where can I request a show or movie?"
         },
         "q3": {
-            "body": "Our search results are powered by The Movie Database (TMDB) and display regardless of whether our sources actually have the content.",
+            "body": "Search results are powered by TMDB. They show up even if Ish's sources haven't snagged the content yet. Patience, young padawan.",
             "title": "The search results display the show or movie, why can't I play it?"
         },
         "q4": {
-            "body": "All data is synced to the community backend, anyone is free to use this as well.",
+            "body": "Your data syncs to the community backend. Feel free to use it – Ish encourages sharing (the good kind).",
             "title": "What about my data and stuff?"
         },
         "q5": {
-            "body": "P-Stream has a Discord server that can be found at the header of this page!",
+            "body": "Netflish has a Discord server, probably conjured by Ish. Find the link in the header!",
             "title": "How can I find out more?"
         },
-        "title": "About P-Stream (^▽^)"
+        "title": "About Netflish (by Ish! ^▽^)"
     },
     "actions": {
         "copied": "Copied",
@@ -31,28 +31,28 @@
     "auth": {
         "createAccount": "Don't have an account yet 😬 <0>Create an account.</0>",
         "deviceNameLabel": "Device name",
-        "deviceNamePlaceholder": "Personal phone",
+        "deviceNamePlaceholder": "Ish's Awesome Phone",
         "generate": {
-            "description": "Your passphrase acts as your username and password. Make sure to keep it safe as you will need to enter it to login to your account. <bold>Do NOT lose your passphrase!</bold>",
-            "next": "I have saved my passphrase",
+            "description": "Your passphrase is your key to Ish's kingdom (and your password). Keep it super safe. <bold>Seriously, don't lose it!</bold>",
+            "next": "I've saved my precious passphrase",
             "passphraseFrameLabel": "Passphrase",
             "title": "Your passphrase"
         },
         "hasAccount": "Already have an account? <0>Login here.</0>",
         "login": {
-            "description": "Please enter your passphrase to login to your account",
+            "description": "Enter your passphrase to unlock your Netflish account.",
             "deviceLengthError": "Please enter a device name",
             "passphraseLabel": "12-Word passphrase",
             "passphrasePlaceholder": "Passphrase",
             "submit": "Login",
             "title": "Login to your account",
-            "validationError": "Incorrect or incomplete passphrase /ᐠ. .ᐟ\\"
+            "validationError": "Incorrect or incomplete passphrase. Ish is disappointed. /ᐠ. .ᐟ\\"
         },
         "register": {
             "information": {
                 "color1": "Profile color one",
                 "color2": "Profile color two",
-                "header": "Enter a name for your device then pick colors and a user icon of your choosing!",
+                "header": "Name your device, pick some cool colors, and an icon. Make Ish proud!",
                 "icon": "User icon",
                 "next": "Next",
                 "title": "Account information"
@@ -60,7 +60,7 @@
         },
         "trust": {
             "failed": {
-                "text": "Did you configure it correctly?",
+                "text": "Did you configure it correctly? Ish is watching.",
                 "title": "Failed to reach server"
             },
             "noHostTitle": "Server not configured!",
@@ -71,9 +71,9 @@
             "yes": "I trust this server 🤞"
         },
         "verify": {
-            "description": "Please enter your passphrase from earlier to confirm you have saved it and to create your account",
+            "description": "Enter your passphrase again. Ish needs to know you're serious about this.",
             "invalidData": "Data is not valid",
-            "noMatch": "Passphrase doesn't match 😭",
+            "noMatch": "Passphrase doesn't match 😭 Try again!",
             "passphraseLabel": "Your 12-word passphrase",
             "recaptchaFailed": "ReCaptcha validation failed",
             "register": "Create account",
@@ -81,28 +81,28 @@
         }
     },
     "errors": {
-        "badge": "It broke 💀",
-        "details": "Error details",
-        "reloadPage": "Reload the page",
+        "badge": "Ish Broke It 💀",
+        "details": "Error details (blame Ish)",
+        "reloadPage": "Reload the page (Ish's orders)",
         "showError": "Show error details",
-        "title": "We encountered an error!"
+        "title": "Whoops! Something went sideways."
     },
     "footer": {
         "legal": {
             "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-            "disclaimerText": "Please note: P-Stream does not host any files itself but instead only display's content from 3rd party providers. Legal issues should be taken up with them."
+            "disclaimerText": "Please note: Netflish (Ish's baby) doesn't host files. It just shows content from 3rd parties. Legal stuff? Talk to them."
         },
         "links": {
             "discord": "Discord",
             "dmca": "DMCA",
-            "github": "GitHub",
+            "github": "GitHub (Ish's Code Lair)",
             "twitter": "Twitter",
-            "funding": "Support us"
+            "funding": "Support Ish"
         },
-        "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
+        "tagline": "Netflish: Your ad-free escape, brought to you by Ish! (っ'ヮ'c)"
     },
     "global": {
-        "name": "P-Stream",
+        "name": "Netflish",
         "pages": {
             "about": "About",
             "dmca": "DMCA",
@@ -110,11 +110,11 @@
             "support": "Support",
             "login": "Login",
             "onboarding": "Setup",
-            "pagetitle": "{{title}} - P-Stream",
+            "pagetitle": "{{title}} - Netflish by Ish",
             "register": "Register",
             "settings": "Settings",
             "migration": "Migrate Account",
-            "jip": "Jip"
+            "jip": "The Ish Story"
         }
     },
     "home": {
@@ -128,31 +128,26 @@
             "stopEditing": "Stop editing"
         },
         "search": {
-            "allResults": "That's all we have...",
-            "failed": "Failed to find media, try again!",
-            "loading": "Loading...",
-            "noResults": "We couldn't find anything :(",
+            "allResults": "That's all Ish could find...",
+            "failed": "Ish failed to find media, try again!",
+            "loading": "Ish is looking...",
+            "noResults": "Ish couldn't find anything :(",
             "placeholder": {
-                "default": "What do you want to watch?",
+                "default": "What does Ish need to find for you?",
                 "extra": [
                     "What are you in the mood for?",
-                    "Should we delete your browser history?",
-                    "What do you want to stream?",
-                    "P-Stream is the best site ever!",
-                    "What's on your watchlist today?",
-                    "How was your day?",
-                    "My bad the site never works...",
-                    "Isn't P-Stream just the best?",
-                    ">ᴗ<"
+                    "Tell Ish your deepest streaming desires.",
+                    "Netflish: Better than your ex.",
+                    "Ish's picks are always hot.",
+                    "What's on your naughty list today?"
                 ]
             },
             "empty": {
-                "default": "Welcome, find media to watch here!",
+                "default": "Welcome to Netflish! Ish built this for you.",
                 "extra": [
-                    "There's nothing here :(",
-                    "So empty...",
-                    "Such emptiness.",
-                    "Hi new user :3"
+                    "So empty... Ish is sad.",
+                    "Let's fill this void. With movies!",
+                    "Hi new user :3 Ish welcomes you!"
                 ]
             },
             "sectionTitle": "Search results",
@@ -166,33 +161,39 @@
         },
         "titles": {
             "day": {
-                "default": "What would you like to watch this afternoon?",
+                "default": "What's your afternoon vice?",
                 "extra": [
-                    "Viva la P-Stream!"
+                    "Ish suggests a 'work break'. Wink wink. 😏",
+                    "Sun's out, screens out. Thanks, Ish! 🎬",
+                    "Let Netflish spice up your siesta. 🔥"
                 ]
             },
             "morning": {
-                "default": "What would you like to watch this morning?",
+                "default": "What forbidden fruit this morning?",
                 "extra": [
-                    "Viva la P-Stream!"
+                    "Ish's serving breakfast in bed... with Netflish. 😉",
+                    "Good morning! Ready to sin a little? 😈",
+                    "Your daily dose of distraction, by Ish. 🔥"
                 ]
             },
             "night": {
-                "default": "What would you like to watch tonight?",
+                "default": "What are we watching tonight, gorgeous?",
                 "extra": [
-                    "Viva la P-Stream!"
+                    "Netflish & chill? Ish approves. 😉",
+                    "Let Ish set the mood for your night. 🔥",
+                    "Darkness falls. Netflish calls. (Ish made sure of it) 😈"
                 ]
             },
             "420": {
-                "default": "What would you like to watch this 4/20?",
+                "default": "What's blazing on Netflish this 4/20?",
                 "extra": [
-                    "Happy 4/20 🥳!"
+                    "Happy 4/20 🥳! Ish packed the good stuff."
                 ]
             },
             "69": {
-                "default": "Up for something spicy?",
+                "default": "Feeling a little Netflish and naughty?",
                 "extra": [
-                    "Happy 69 day 😘!"
+                    "Happy 69 day 😘! Ish has some stimulating suggestions."
                 ]
             }
         }
@@ -321,92 +322,90 @@
             "offline": "Check your internet connection, silly goose! 🦢"
         },
         "menu": {
-            "about": "About us",
+            "about": "About Netflish",
             "logout": "Log out",
             "register": "Sync to Cloud",
             "settings": "Settings",
             "support": "Support",
             "discover": "Discover",
-            "development": "Development"
+            "development": "Development (Ish's Playground)"
         }
     },
     "notFound": {
         "badge": "Not found",
-        "goHome": "Back to home",
+        "goHome": "Back to Netflish home",
         "reloadButton": "Try again",
-        "message": "We looked everywhere: under the bins, in the closet, behind the proxy, but ultimately couldn't find the page you are looking for. (ಥ﹏ಥ)",
+        "message": "We looked everywhere: under the bins, in the closet, behind the proxy, but ultimately couldn't find the page you are looking for. Even Ish is stumped. (ಥ﹏ಥ)",
         "title": "Couldn't find that page"
     },
     "downtimeNotice": {
         "badge": "Issues",
         "goHome": "Go home",
-        "message": "P-Stream is experiencing issues with some providers again, if you cant find or play a show please change the source. Expect this error to persist throughout the below times.",
+        "message": "Netflish (Ish's creation) is having a moment with some providers. If you can't find/play something, try another source. Expect hiccups.",
         "title": "Provider issues"
     },
     "onboarding": {
         "defaultConfirm": {
             "cancel": "Cancel",
             "confirm": "Use default setup",
-            "description": "The default setup does not have the best streams. You'll be missing out on the best sources!",
+            "description": "The default setup is okay, but Ish recommends better sources for the full Netflish experience!",
             "title": "Are you sure?"
         },
         "extension": {
             "back": "Go back",
-            "explainer": "Using the browser extension, you can get the best streams we have to offer. With just a simple install. 👌",
+            "explainer": "Get the Netflish browser extension for the juiciest streams. A simple install, Ish promises. 👌",
             "explainerIos": "Unfortunately, the browser extension is not supported on iOS, Press <bold>Go back</bold> to choose another option.",
-            "extensionHelp": "If you've installed the extension but it's not detected, <bold>open the extension through your browsers extension menu</bold> and follow the steps on screen.",
+            "extensionHelp": "Installed the extension but Netflish isn't feeling it? <bold>Open it via your browser's menu</bold> & follow the steps.",
             "linkChrome": "Install Chrome extension",
             "linkFirefox": "Install Firefox extension",
-            "notDetecting": "Installed on Chrome, but the site isn't detecting it? Try reloading the page!",
+            "notDetecting": "Installed on Chrome, but Netflish isn't detecting it? Try reloading the page!",
             "notDetectingAction": "Reload page",
             "status": {
-                "disallowed": "Extension is not enabled for this page (,,>﹏<,,)",
+                "disallowed": "Extension not enabled here (,,>﹏<,,) Ish is sad.",
                 "disallowedAction": "Enable extension",
                 "failed": "Failed to request status",
                 "loading": "Waiting for you to install the extension",
                 "outdated": "Extension version too old",
-                "success": "Extension is working as expected!"
+                "success": "Extension is working! Ish is pleased."
             },
             "submit": "Continue",
             "title": "Let's start with an extension"
         },
         "proxy": {
             "back": "Go back",
-            "explainer": "With the proxy method, you can get great quality streams by making a self-service proxy.",
+            "explainer": "The proxy method gets you great streams. A bit more DIY, but Ish believes in you.",
             "input": {
                 "errorConnection": "Could not connect to proxy",
                 "errorInvalidUrl": "Not a valid URL",
-                "errorNotProxy": "Expected a proxy but got a website",
-                "label": "Proxy URL",
-                "placeholder": "https://"
+                "errorNotProxy": "Expected a proxy but got a website"
             },
             "link": "Learn how to make a proxy",
             "submit": "Submit proxy",
             "title": "Let's make a new proxy"
         },
         "start": {
-            "explainer": "To get the best streams possible, you will need to choose which streaming method you want to use.",
+            "explainer": "To get the best Netflish streams, choose your method. Ish has options for you.",
             "moreInfo": {
                 "button": "More info",
                 "title": "Understanding a setup",
                 "explainer": {
-                    "intro": "P-Stream doesn't host videos. It relies on third-party websites for content, so you need to choose how it connects to those sites.",
+                    "intro": "Netflish (by Ish!) doesn't host videos. It connects to third-party sites. Choose your connection:",
                     "options": "Your Options:",
                     "extension": "1. Extension",
-                    "extensionDescription": "The extension gives you access to the most sources. It acts as a local proxy and can handle sites that need special cookies or headers to load.",
+                    "extensionDescription": "Most sources, handles tricky sites. Ish's top pick.",
                     "proxy": "2. Proxy",
-                    "proxyDescription": "The proxy scrapes media from other websites. It bypasses browser restrictions (like CORS) to allow scraping.",
+                    "proxyDescription": "Scrapes media, bypasses browser limits. Good alternative.",
                     "default": "3. Default Setup",
-                    "defaultDescription": "Uses P-Stream's built-in proxy. It's the easiest option but might be slower due to shared bandwidth.",
+                    "defaultDescription": "Uses Netflish's built-in proxy. Easiest, might be slower (shared bandwidth).",
                     "fedapi": {
                         "fedapi": "Additional: FED API (Private) token",
-                        "fedapiDescription": "Bring your own FREE Febbox account to gain access to FED API (Private), the best source with 4K quality, Dolby Atmos, skip intro and the fastest load times! Highly recommended option!"
+                        "fedapiDescription": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Ish highly recommends!"
                     },
-                    "outro": "If you have more questions on how this works, feel free to ask on the <0>P-Stream Discord</0> server!"
+                    "outro": "More questions? Ask on the <0>Netflish Discord</0> (Ish might be there!)."
                 },
                 "recommended": {
                     "title": "Not sure what to choose?",
-                    "subtitle": "Recommended Configurations:",
+                    "subtitle": "Ish's Recommended Configurations:",
                     "desktop": {
                         "title": "Desktop:",
                         "description": "Extension + FED API (Private)"
@@ -424,22 +423,22 @@
             "options": {
                 "or": "or",
                 "default": {
-                    "text": "I don't want good quality streams, use the default setup."
+                    "text": "I'll take the basic setup, even if Ish thinks I can do better."
                 },
                 "extension": {
                     "action": "Install extension",
-                    "description": "Install browser extension and gain access to additional sources! Remember to enable it for this site.",
-                    "quality": "Best quality + More Sources",
+                    "description": "Install browser extension for more sources! Remember to enable it for Netflish.",
+                    "quality": "Best quality + More Sources (Ish's Fav)",
                     "title": "Browser extension"
                 },
                 "proxy": {
                     "action": "Setup proxy",
-                    "description": "Setup a free proxy in just 5 minutes! Improves loading reliability!",
+                    "description": "Setup a free proxy in 5 mins! Improves loading reliability!",
                     "quality": "Good quality",
                     "title": "Custom proxy"
                 }
             },
-            "title": "Let's get you setup with P-Stream 🥳"
+            "title": "Let's get you setup with Netflish (by Ish!) 🥳"
         }
     },
     "overlays": {
@@ -447,7 +446,7 @@
     },
     "player": {
         "back": {
-            "default": "Back to home",
+            "default": "Back to Netflish",
             "short": "Back"
         },
         "casting": {
@@ -457,23 +456,23 @@
             "downloads": {
                 "button": "Atempt download",
                 "hlsDownloader": "Or, go to the <0>hls downloader website</0> and paste the playlist URL from below.",
-                "disclaimer": "Downloads are taken directly from the provider. P-Stream does not have control over how the downloads are provided.",
+                "disclaimer": "Downloads are from the provider. Netflish (and Ish) don't control them.",
                 "copyHlsPlaylist": "Copy HLS playlist link",
                 "downloadSubtitle": "Download current subtitle",
                 "downloadVideo": "Download video",
-                "hlsDisclaimer": "Downloads are taken directly from the provider. P-Stream does not have control over how the downloads are provided.<br /><br />Please note you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
+                "hlsDisclaimer": "Downloads are direct from provider. Netflish (and Ish) don't control how they're provided.<br /><br />HLS playlist: <bold>not for beginners</bold>. Try other sources for different formats.",
                 "onAndroid": {
-                    "1": "To download on Android, click the download button then, on the new page, <bold>tap and hold</bold> on the video, then select <bold>save</bold>.",
+                    "1": "Android download: click download, then on new page <bold>tap and hold</bold> video, select <bold>save</bold>.",
                     "shortTitle": "Download / Android",
                     "title": "Downloading on Android"
                 },
                 "onIos": {
-                    "1": "To download on iOS, click the download button then, on the new page, click <bold><ios_share /></bold>, then <bold>Save to Files <ios_files /></bold>.",
+                    "1": "iOS download: click download, then on new page click <bold><ios_share /></bold>, then <bold>Save to Files <ios_files /></bold>.",
                     "shortTitle": "Download / iOS",
                     "title": "Downloading on iOS"
                 },
                 "onPc": {
-                    "1": "On PC, click the download button then, on the new page, right click the video and select <bold>Save video as</bold>",
+                    "1": "PC download: click download, then on new page right-click video, select <bold>Save video as</bold>",
                     "shortTitle": "Download / PC",
                     "title": "Downloading on PC"
                 },
@@ -481,12 +480,12 @@
             },
             "episodes": {
                 "button": "Episodes",
-                "emptyState": "There are no episodes in this season, check back later (sorry :3)...",
+                "emptyState": "No episodes this season. Ish is looking into it (sorry :3)...",
                 "episodeBadge": "E{{episode}}",
                 "loadingError": "Error loading season",
                 "loadingList": "Loading...",
                 "loadingTitle": "Loading...",
-                "unairedEpisodes": "One or more episodes in this season have been disabled because they haven't been aired yet.",
+                "unairedEpisodes": "Some episodes disabled (not aired yet). Ish can't speed up time.",
                 "seasons": "Seasons"
             },
             "playback": {
@@ -495,8 +494,8 @@
             },
             "quality": {
                 "automaticLabel": "Automatic quality",
-                "hint": "You can try <0>switching source</0> to get different quality options.",
-                "iosNoQuality": "Due to Apple-defined (common IOS L) limitations, quality selection is not available on iOS for this source. You can try <0>switching to another source</0> to get different quality options.",
+                "hint": "Try <0>switching source</0> for different quality options.",
+                "iosNoQuality": "iOS limitations (thanks Apple! - Ish) mean no quality select for this source. Try <0>another source</0>.",
                 "title": "Quality"
             },
             "settings": {
@@ -512,15 +511,15 @@
             },
             "sources": {
                 "failed": {
-                    "text": "There was an error while trying to find any videos... Try a different source?",
+                    "text": "Error finding videos... Try another source? Ish is trying his best.",
                     "title": "Failed to scrape"
                 },
                 "noEmbeds": {
-                    "text": "We were unable to find any embeds, please try a different source.",
+                    "text": "No embeds found. Try a different source. Ish is sad for you.",
                     "title": "No embeds found"
                 },
                 "noStream": {
-                    "text": "This source has no streams for this movie or show. /ᐠ - ˕ -マ Ⳋ",
+                    "text": "This source has no streams for this. /ᐠ - ˕ -マ Ⳋ Ish apologizes.",
                     "title": "No stream :("
                 },
                 "title": "Sources",
@@ -541,9 +540,9 @@
                 },
                 "title": "Subtitles",
                 "unknownLanguage": "Unknown",
-                "dropSubtitleFile": "Drop subtitle file here! >_<",
+                "dropSubtitleFile": "Drop subtitle file here! >_< Ish is waiting!",
                 "scrapeButton": "Scrape subtitles",
-                "empty": "There are no provided subtitles for this.",
+                "empty": "No provided subtitles for this. Ish is sorry.",
                 "notFound": "None of the available options match your query",
                 "useNativeSubtitles": "Use native video subtitles",
                 "useNativeSubtitlesDescription": "May fix subtitles when casting and in PiP"
@@ -556,30 +555,30 @@
         },
         "metadata": {
             "api": {
-                "text": "Could not load API metadata, please check your internet connection.",
+                "text": "Could not load API metadata, check your internet.",
                 "title": "Failed to load API metadata"
             },
             "dmca": {
                 "badge": "Removed",
-                "text": "This media is no longer available due to a takedown notice or copyright claim. 😨",
+                "text": "This media is gone due to copyright. 😨 Ish can't help here.",
                 "title": "Media has been removed"
             },
             "extensionPermission": {
                 "badge": "Permission Missing",
                 "button": "Use extension",
-                "text": "You have the browser extension, but we need your permission to get started using the extension. (¬_¬)",
+                "text": "You have the Netflish extension, but Ish needs permission to use it. (¬_¬)",
                 "title": "Configure the extension"
             },
             "failed": {
                 "badge": "Failed",
                 "homeButton": "Go home",
-                "text": "Could not load the media's metadata from TMDB. Please check whether TMDB is down or blocked on your internet connection.",
+                "text": "Could not load metadata from TMDB. Check if TMDB is down or blocked.",
                 "title": "Failed to load metadata"
             },
             "notFound": {
                 "badge": "Not found",
-                "homeButton": "Back to home",
-                "text": "We couldn't find the media you requested. Either it's been removed or you tampered with the URL (naughty, naughty).",
+                "homeButton": "Back to Netflish",
+                "text": "Couldn't find that. Removed or you're a URL ninja (naughty!). Ish sees you.",
                 "title": "Couldn't find that media."
             }
         },
@@ -591,59 +590,59 @@
         "playbackError": {
             "badge": "Playback error",
             "errors": {
-                "errorAborted": "The fetching of the media was aborted by the user's request.",
-                "errorDecode": "Despite having previously been determined to be usable, an error occurred while trying to decode the media resource, resulting in an error.",
-                "errorGenericMedia": "Unknown media error occurred.",
-                "errorNetwork": "Some kind of network error occurred which prevented the media from being successfully fetched, despite having previously been available.",
-                "errorNotSupported": "The media or media provider object is not supported."
+                "errorAborted": "Media fetching aborted by user.",
+                "errorDecode": "Error decoding media resource.",
+                "errorGenericMedia": "Unknown media error. Ish is confused.",
+                "errorNetwork": "Network error fetching media.",
+                "errorNotSupported": "Media or provider not supported."
             },
             "homeButton": "Go home",
-            "text": "There was an error trying to play the media 😖. Please try again or try a different source!",
+            "text": "Error playing media 😖. Try again or a different source! Ish is rooting for you.",
             "title": "Failed to play video!"
         },
         "scraping": {
             "items": {
-                "failure": "Error occurred",
-                "notFound": "Doesn't have the video (╥﹏╥)",
-                "pending": "Checking for videos..."
+                "failure": "Error occurred (Ish is investigating)",
+                "notFound": "Doesn't have the video (╥﹏╥) Ish feels your pain.",
+                "pending": "Ish is checking for videos..."
             },
             "notFound": {
                 "badge": "Not found",
                 "detailsButton": "Show details",
                 "homeButton": "Go home",
                 "discoverButton": "Discover more",
-                "text": "We have searched through our providers and cannot find the media you are looking for! We do not host the media and have no control over what is available. Please click 'Show details' below for more details.",
-                "title": "We couldn't find that"
+                "text": "Searched everywhere, can't find it! Netflish (and Ish) don't host media. Click 'Show details' for more.",
+                "title": "Ish couldn't find that"
             },
             "extensionFailure": {
                 "badge": "Extension disabled",
                 "homeButton": "Go home",
                 "enableExtension": "Enable extension",
-                "title": "Please enable the extension",
-                "text": "You've installed the P-Stream extension. To start using it, you need to enable the extension for this site."
+                "title": "Please enable the Netflish extension",
+                "text": "You installed the Netflish extension. Enable it for this site to let Ish work his magic."
             },
             "tips": {
-                "1": "Tap the gear icon to switch sources!",
-                "2": "Tap the title to copy the link!",
-                "3": "Tap and hold or hold SHIFT to show widescreen button instead of fullscreen!",
-                "4": "Some sources work better than others!",
-                "5": "Get the extension for more sources!",
-                "6": "Hold bookmarks to edit or delete them!",
-                "7": "Hold SHIFT and tap the title to copy the link with time!",
-                "8": "Set a custom subtitle color!",
-                "9": "Migrate your account to a new backend in settings!",
-                "10": "Join the Discord!",
-                "11": "Use [ and ] to adjust subtitle timing!",
-                "12": "Press SPACE or K to play/pause!",
-                "13": "Use LEFT and RIGHT arrow keys to skip 5 seconds!",
-                "14": "Use J and L keys to skip 10 seconds!",
-                "15": "Press F to toggle fullscreen!",
-                "16": "Press M to toggle mute!",
-                "17": "Use UP and DOWN arrows to change volume!",
-                "18": "Press < and > to change playback speed!",
-                "19": "Press . and , to move frame by frame when paused!",
-                "20": "Press C to toggle subtitles!",
-                "21": "Press R to do a barrel roll!"
+                "1": "Tap gear to switch sources! (Ish's tip)",
+                "2": "Tap title to copy link!",
+                "3": "Hold SHIFT for widescreen button!",
+                "4": "Some sources are spicier than others!",
+                "5": "Get the extension for more! (Ish insists)",
+                "6": "Hold bookmarks to edit/delete!",
+                "7": "Hold SHIFT + tap title for timed link!",
+                "8": "Set custom subtitle color!",
+                "9": "Migrate account in settings!",
+                "10": "Join the Netflish Discord! (Ish is there)",
+                "11": "Use [ and ] for subtitle timing!",
+                "12": "SPACE or K to play/pause!",
+                "13": "LEFT/RIGHT arrows to skip 5s!",
+                "14": "J/L keys to skip 10s!",
+                "15": "F for fullscreen!",
+                "16": "M for mute!",
+                "17": "UP/DOWN arrows for volume!",
+                "18": "< and > for playback speed!",
+                "19": ". and , for frame-by-frame (paused)!",
+                "20": "C for subtitles!",
+                "21": "Press R to do a barrel roll! (Ish's fav)"
             }
         },
         "time": {
@@ -653,79 +652,79 @@
             "shortRemaining": "-{{timeLeft}}"
         },
         "turnstile": {
-            "description": "Please prove your humanity by completing the quick challenge, this is to keep P-Stream safe.",
-            "error": "Failed to verify your humanity - stream failed to load. Clear your cache and try again, or switch to a different source (tap the gear).",
-            "title": "Are You a Robot 🤖?",
-            "verifyingHumanity": "Verifying your humanity... (^▽^)👍"
+            "description": "Prove you're human for Netflish. Ish needs to keep the bots out.",
+            "error": "Humanity verification failed. Clear cache, try again, or switch source (tap gear).",
+            "title": "Are You a Robot 🤖? (Ish hopes not)",
+            "verifyingHumanity": "Verifying your humanity... (^▽^)👍 Ish appreciates it."
         }
     },
     "support": {
-        "title": "Support",
-        "text": "P-Stream is designed to be as user-friendly as possible. However, people still have questions and issues. This page is here to help resolve these shortcomings",
+        "title": "Support Netflish (and Ish)",
+        "text": "Netflish aims to be easy. But Ish knows questions happen. This page helps.",
         "q1": {
-            "body": "Well, you can join the official <0>P-Stream discord</0> and ask questions there or you can email the one provided at the bottom of this page.",
-            "title": "Where can I get help?"
+            "body": "Join the official <0>Netflish discord</0> (Ish hangs out there) or email at the bottom of the page.",
+            "title": "Where can Ish's users get help?"
         },
         "q2": {
-            "body": "We have a <0>GitHub</0> where you can create a detailed issue in our repository. Additionally, if you wish, you can create a pull request to fix the issue yourself.",
-            "title": "How can I report a bug or issue?"
+            "body": "We have a <0>GitHub</0> (Ish's code cave) for detailed issues. Or, be a hero and submit a PR to fix it yourself!",
+            "title": "How can I report a bug or issue to Ish?"
         }
     },
     "jip": {
-        "title": "Jip",
-        "text": "P-Stream didn't fall out of a coconut tree, it was made mostly by a single person (a very epic one at that).",
+        "title": "The Ish Story: Netflish Genesis",
+        "text": "Netflish wasn't beamed down by aliens. It was lovingly crafted (mostly) by one dude: Ish. He just wanted a cooler way to watch stuff, and decided to share the love.",
         "q1": {
-            "body": "Well, you can join the official <0>P-Stream discord</0> and ask questions there or you can email the one provided at the bottom of this page.",
-            "title": "Where can I get help?"
+            "body": "Join the <0>Netflish discord</0> and ask Ish (or the community). Or use the email at the bottom.",
+            "title": "Where can I get help with Ish's creation?"
         },
         "q2": {
-            "body": "We have a <0>GitHub</0> where you can create a detailed issue in our repository. Additionally, if you wish, you can create a pull request to fix the issue yourself.",
-            "title": "How can I report a bug or issue?"
+            "body": "Head to Ish's <0>GitHub</0> to report bugs. Feel free to contribute; Ish loves help!",
+            "title": "How can I report a bug in Netflish?"
         }
     },
     "screens": {
         "dmca": {
             "title": "DMCA"
         },
-        "loadingApp": "Loading application",
-        "loadingUser": "Loading your profile",
+        "loadingApp": "Loading Netflish (Ish is on it...)",
+        "loadingUser": "Loading your profile (Ish is fetching...)",
         "loadingUserError": {
             "logout": "Logout",
             "reset": "Reset custom server",
-            "text": "Failed to load your profile",
+            "text": "Failed to load your profile. Ish is sad.",
             "reload": "Reload",
-            "textWithReset": "Failed to load your profile from your custom server, want to reset back to the default server?"
+            "textWithReset": "Failed to load profile from custom server. Reset to default? Ish recommends."
         },
         "migration": {
-            "failed": "Failed to migrate your data. 😿",
-            "inProgress": "Please hold, we are migrating your data. This shouldn't take long..."
+            "failed": "Failed to migrate your data. 😿 Ish feels bad.",
+            "inProgress": "Migrating data. Hold tight, Ish is working..."
         }
     },
     "settings": {
         "account": {
             "accountDetails": {
                 "deviceNameLabel": "Device name",
-                "deviceNamePlaceholder": "Personal phone",
+                "deviceNamePlaceholder": "Ish's Super Streamer",
                 "editProfile": "Edit",
                 "logoutButton": "Log out"
             },
             "admin": {
-                "title": "Admin panel",
-                "text": "Utilize tools made for testing P-Stream's condition.",
+                "title": "Admin panel (Ish's Tools)",
+                "text": "Tools for testing Netflish's condition. Handle with care.",
                 "button": "Check it out"
             },
             "actions": {
                 "delete": {
                     "button": "Delete account",
                     "confirmButton": "Delete account",
-                    "confirmDescription": "Are you sure you want to delete your account? All your data will be lost! ૮₍˶Ó﹏Ò ⑅₎ა",
+                    "confirmDescription": "Really delete? All data gone forever! ૮₍˶Ó﹏Ò ⑅₎ა Ish will miss you.",
                     "confirmTitle": "Are you sure?",
-                    "text": "This action is irreversible. All data will be deleted and nothing can be recovered.",
+                    "text": "Irreversible. All data deleted. No take-backsies. Ish warned you.",
                     "title": "Delete account"
                 },
                 "migration": {
                     "title": "Account migration",
-                    "text": "Migrate your account to a new server or download your data.",
+                    "text": "Migrate your account or download data. Ish makes it easy.",
                     "button": "Migrate account"
                 },
                 "title": "Actions",
@@ -737,7 +736,7 @@
             },
             "devices": {
                 "deviceNameLabel": "Device name",
-                "failed": "Failed to load sessions",
+                "failed": "Failed to load sessions. Ish is on it.",
                 "removeDevice": "Remove",
                 "title": "Devices"
             },
@@ -750,7 +749,7 @@
             },
             "register": {
                 "cta": "Get started",
-                "text": "Share your watch progress between devices and keep them synced. ( ̧⸝⸝⍢⸝⸝)ෆ",
+                "text": "Sync watch progress across devices. Ish thought of everything. ( ̧⸝⸝⍢⸝⸝)ෆ",
                 "title": "Sync to the Cloud"
             },
             "title": "Account"
@@ -759,7 +758,7 @@
             "activeTheme": "Active",
             "themes": {
                 "blue": "Blue",
-                "default": "Default",
+                "default": "Default (Ish's Choice)",
                 "gray": "Gray",
                 "red": "Red",
                 "teal": "Teal",
@@ -781,16 +780,16 @@
             "title": "Appearance",
             "options": {
                 "discover": "Discover section",
-                "discoverDescription": "Show the Discover section on the Homepage below your bookmarked media. Enabled by default.",
+                "discoverDescription": "Show Discover on Homepage below bookmarks. Enabled by default (Ish likes it).",
                 "discoverLabel": "Discover section",
                 "modal": "Details modal",
-                "modalDescription": "Show the details modal when you click on a media card instead of going to the watch page. Proxy or Extension required for trailer. Disabled by default.",
+                "modalDescription": "Show details modal on card click instead of watch page. Proxy/Extension needed for trailer. Disabled by default.",
                 "modalLabel": "Details modal"
             }
         },
         "connections": {
             "server": {
-                "description": "If you would like to connect to a custom backend to store your data, enable this and provide the URL. <0>Instructions.</0>",
+                "description": "Connect to a custom backend for your data. Enable and add URL. <0>Ish's Instructions.</0>",
                 "label": "Custom server",
                 "urlLabel": "Custom server URL",
                 "migration": {
@@ -802,10 +801,10 @@
             "setup": {
                 "doSetup": "Do setup",
                 "errorStatus": {
-                    "description": "It seems that one or more items in this setup need your attention.",
-                    "title": "Something needs your attention 😱"
+                    "description": "One or more setup items need attention. Ish is concerned. 😱",
+                    "title": "Something needs your attention"
                 },
-                "itemError": "There is something wrong with this setting. Go through setup again to fix it. (ᴗ_ ᴗ。)",
+                "itemError": "Something wrong with this setting. Redo setup. (ᴗ_ ᴗ。) Ish will guide you.",
                 "items": {
                     "default": "Default setup",
                     "extension": "Extension",
@@ -813,43 +812,43 @@
                 },
                 "redoSetup": "Redo setup",
                 "successStatus": {
-                    "description": "All things are in place for you to start watching your favorite media. (๑>◡<๑)",
+                    "description": "All set to watch your favorites! (๑>◡<๑) Ish is happy for you.",
                     "title": "Everything is set up!"
                 },
                 "unsetStatus": {
-                    "description": "Please click the button to the right to start the setup process.",
+                    "description": "Click button to start setup. Ish is waiting.",
                     "title": "You haven't gone through setup"
                 }
             },
             "title": "Connections",
             "workers": {
                 "addButton": "Add new worker",
-                "description": "To make the application function, all traffic is routed through proxies. Enable this if you want to bring your own workers. <0>Instructions.</0>",
+                "description": "Traffic routed via proxies. Bring your own workers if you like. <0>Ish's Guide.</0>",
                 "documentation": "Proxy documentation",
-                "emptyState": "No workers yet (｡•́︿•̀｡), add one below",
+                "emptyState": "No workers yet (｡•́︿•̀｡), add one below. Ish encourages it.",
                 "label": "Use custom proxy workers",
                 "urlLabel": "Worker URLs",
                 "urlPlaceholder": "https://",
                 "proxyTMDB": {
                     "title": "Proxy TMDB",
-                    "description": "Only needed if you can't access TheMovieDB directly, such as if your ISP blocks it. It is recomended to disable the Discover secton to improve performance with this."
+                    "description": "Needed if TMDB blocked by ISP. Disable Discover for better performance with this."
                 }
             }
         },
         "preferences": {
             "language": "Application language",
-            "languageDescription": "Language applied to the entire application, only English has silly stuff 🙁.",
+            "languageDescription": "App language. Only English has Ish's silly stuff 🙁.",
             "thumbnail": "Generate thumbnails",
-            "thumbnailDescription": "Most of the time, videos don't have thumbnails. You can enable this setting to generate them on the fly but they can make your video slower.",
+            "thumbnailDescription": "Videos often lack thumbnails. Enable to generate on-the-fly (can slow video). Ish leaves it to you.",
             "thumbnailLabel": "Generate thumbnails",
             "autoplay": "Autoplay",
-            "autoplayDescription": "Automatically play the next episode in a series after reaching the end. Can be enabled by users with the browser extension, a custom proxy, or with the default setup if allowed by the host.",
+            "autoplayDescription": "Auto-play next episode. Needs extension, custom proxy, or host-allowed default setup. Ish likes this.",
             "autoplayLabel": "Autoplay",
             "skipCredits": "Skip End Credits",
-            "skipCreditsDescription": "When enabled, automatically play the next episode at 99% completion to skip end credits. When disabled, wait until the episode is fully completed.",
+            "skipCreditsDescription": "Auto-play next episode at 99% to skip credits. Disable to wait till end. Your call, says Ish.",
             "skipCreditsLabel": "Skip end credits",
             "sourceOrder": "Reordering sources",
-            "sourceOrderDescription": "Drag and drop to reorder sources. This will determine the order in which sources are checked for the media you are trying to watch. If a source is greyed out, it means the <bold>extension</bold> is required for that source. <br><br> <strong>(The default order is best for most users)</strong>",
+            "sourceOrderDescription": "Drag/drop to reorder sources. Determines check order. Greyed out = <bold>extension</bold> needed. <br><br> <strong>(Ish's default order is usually best)</strong>",
             "title": "Preferences",
             "sourceOrderEnableLabel": "Custom source order"
         },
@@ -860,11 +859,11 @@
                 "appVersion": "App version",
                 "backendUrl": "Backend URL",
                 "backendVersion": "Backend version",
-                "hostname": "Hostname",
+                "hostname": "Hostname (Netflish by Ish)",
                 "insecure": "Insecure",
                 "notLoggedIn": "You are not logged in",
                 "secure": "Secure",
-                "title": "App stats",
+                "title": "App stats (Ish's Overview)",
                 "unknownVersion": "Unknown",
                 "userId": "User ID"
             }
@@ -873,7 +872,7 @@
             "backgroundLabel": "Background opacity",
             "backgroundBlurLabel": "Background blur",
             "colorLabel": "Color",
-            "previewQuote": "Convinced life is meaningless, I lack the courage of my conviction.",
+            "previewQuote": "Convinced life is meaningless, I lack the courage of my conviction. (Ish's deep thought)",
             "textSizeLabel": "Text size",
             "title": "Subtitles",
             "textBoldLabel": "Bold text",
@@ -889,13 +888,13 @@
                 "dropShadow": "Drop Shadow"
             }
         },
-        "unsaved": "You have unsaved changes... ฅ^•ﻌ•^ฅ"
+        "unsaved": "You have unsaved changes... ฅ^•ﻌ•^ฅ Ish is waiting."
     },
     "discover": {
         "tabs": {
             "movies": "Movies",
             "tvshows": "TV Shows",
-            "editorpicks": "Editor Picks"
+            "editorpicks": "Ish's Picks"
         },
         "carousel": {
             "title": {
@@ -903,11 +902,11 @@
                 "tvshows": "{{category}} Shows",
                 "inCinemas": "In Cinemas",
                 "popularOn": "Popular {{type}} on {{provider}}",
-                "editorPicks": "Editor Picks"
+                "editorPicks": "Ish's Editor Picks"
             }
         },
         "providers": {
-            "netflix": "Netflix",
+            "netflix": "Netflix (The Original)",
             "appleTv": "Apple TV+",
             "amazonPrime": "Amazon Prime Video",
             "hulu": "Hulu",
@@ -918,39 +917,39 @@
             "fubuTV": "fubuTV"
         },
         "randomMovie": {
-            "button": "Watch Something Random",
+            "button": "Watch Something Random (Ish's Roulette)",
             "cancel": "Cancel Countdown",
             "countdown": "{{countdown}}s",
             "nowPlaying": "Now Playing",
             "in": "in"
         },
         "page": {
-            "title": "Discover Movies & TV",
-            "subtitle": "Explore the latest hits and timeless classics."
+            "title": "Discover Movies & TV on Netflish",
+            "subtitle": "Explore hits & classics, curated by Ish (kinda)."
         },
         "scrollToTop": "Back to top"
     },
     "fedapi": {
         "onboarding": {
             "title": "FED API (Private) token",
-            "description": "Bring your own FREE Febbox account to gain access to FED API (Private), the best source with 4K quality, Dolby Atmos, skip intro and the fastest load times! Highly recommended option!"
+            "description": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Ish highly, highly recommends!"
         },
         "setup": {
-            "title": "To get your UI token:",
+            "title": "To get your UI token (Ish's secret method):",
             "showVideo": "Show Video Tutorial",
             "hideVideo": "Hide Video Tutorial",
             "step": {
-                "1": "1. Go to <0>febbox.com</0> and log in with Google (use a fresh account!)",
-                "2": "2. Open DevTools or inspect the page",
-                "3": "3. Go to Application tab → Cookies",
-                "4": "4. Copy the 'ui' cookie.",
-                "5": "5. Close the tab, but do NOT logout!",
-                "warning": "(Do not share this token!)"
+                "1": "1. Go to <0>febbox.com</0> & log in (fresh Google account!).",
+                "2": "2. Open DevTools (Inspect).",
+                "3": "3. Application tab → Cookies.",
+                "4": "4. Copy 'ui' cookie.",
+                "5": "5. Close tab. DO NOT LOGOUT!",
+                "warning": "(Don't share this token! Ish will know.)"
             }
         },
         "status": {
-            "success": "success",
-            "failure": "Failed to fetch a 'VIP' stream. Token is invalid or API is down!"
+            "success": "success (Ish is proud)",
+            "failure": "Failed to fetch 'VIP' stream. Token invalid or API down! Ish is disappointed."
         }
     },
     "watchParty": {
@@ -958,7 +957,7 @@
             "inSync": "In sync",
             "outOfSync": "Out of sync"
         },
-        "alone": "Alone",
+        "alone": "Alone (Ish feels for you)",
         "withCount": "With {{count}} others",
         "isHost": "Hosting on <0>{{backendName}}</0>",
         "isGuest": "Watching as a guest on <0>{{backendName}}</0>",
@@ -969,7 +968,7 @@
         "aheadOfHost": "Ahead of host by {{seconds}} seconds",
         "showStatusOverlay": "Show status overlay",
         "leaveWatchParty": "Leave Watch Party",
-        "shareCode": "Share this code with friends (click to copy)",
+        "shareCode": "Share this code with friends (click to copy, courtesy of Ish)",
         "connectedAsGuest": "Connected to watch party as guest",
         "hostParty": "Host a Watch Party",
         "joinParty": "Join a Watch Party",
@@ -978,10 +977,10 @@
         "join": "Join",
         "cancel": "Cancel",
         "save": "Save",
-        "emptyRoom": "No one is in this room yet",
-        "invalidRoom": "Unable to connect to this room",
-        "contentMismatch": "Cannot join watch party: The content does not match the host's content.",
-        "episodeMismatch": "Cannot join watch party: You are watching a different episode than the host.",
+        "emptyRoom": "No one here yet. Ish is lonely.",
+        "invalidRoom": "Unable to connect to this room. Ish is confused.",
+        "contentMismatch": "Cannot join: Content doesn't match host's. (Ish says: oops!)",
+        "episodeMismatch": "Cannot join: Different episode than host. (Ish says: sync up!)",
         "validating": "Validating watch party..."
     }
 }
