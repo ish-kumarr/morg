@@ -1,28 +1,28 @@
 {
     "about": {
-        "description": "Netflish is a passion project by Ish, forked from movie-web. Hosted privately on netfl.ishkumar.com, Netflish offers ad-free streaming because Ish believes media should be free (and ridiculously fun!).",
+        "description": "Welcome to Netflish, your (slightly illicit) escape hatch from reality. Forked with love and a disregard for the rules, we run on a private VPS, ad-free, because we believe your eyeballs deserve better.",
         "faqTitle": "Common questions",
         "q1": {
-            "body": "Netflish, an Ish special, doesn't host content. Click to watch, and we scour the web for your media (check loading/sources tab for origins). Ish's Netflish uploads nothing; it's all magic searching.",
+            "body": "Netflish doesn't hoard files like a digital dragon. When you click 'play,' we send our tiny internet minions to find your chosen media. (Check loading/sources tab for their adventures). No uploads here, just clever searching.",
             "title": "Where does the content come from?"
         },
         "q2": {
-            "body": "Can't request media directly, sorry! Ish's Netflish doesn't manage content; it's all sourced from the wild web.",
+            "body": "Requesting specific shows or movies? Alas, Netflish is more of a 'discover what's out there' kind of deal. We don't manage the library, just the access.",
             "title": "Where can I request a show or movie?"
         },
         "q3": {
-            "body": "Search results are powered by TMDB. They show up even if Ish's sources haven't snagged the content yet. Patience, young padawan.",
+            "body": "Our search results, powered by TMDB, are eternal optimists. They show up even if our sources are still playing hard to get. Patience, or try another source!",
             "title": "The search results display the show or movie, why can't I play it?"
         },
         "q4": {
-            "body": "Your data syncs to the community backend. Feel free to use it – Ish encourages sharing (the good kind).",
+            "body": "Your data syncs to the community backend. It's out there. Use it, abuse it (not really), it's yours.",
             "title": "What about my data and stuff?"
         },
         "q5": {
-            "body": "Netflish has a Discord server, probably conjured by Ish. Find the link in the header!",
+            "body": "Netflish has a Discord server where the cool kids (and us) hang out. Link's in the header!",
             "title": "How can I find out more?"
         },
-        "title": "About Netflish (by Ish! ^▽^)"
+        "title": "About Netflish (^▽^)"
     },
     "actions": {
         "copied": "Copied",
@@ -31,28 +31,28 @@
     "auth": {
         "createAccount": "Don't have an account yet 😬 <0>Create an account.</0>",
         "deviceNameLabel": "Device name",
-        "deviceNamePlaceholder": "Ish's Awesome Phone",
+        "deviceNamePlaceholder": "My Secret Lair PC",
         "generate": {
-            "description": "Your passphrase is your key to Ish's kingdom (and your password). Keep it super safe. <bold>Seriously, don't lose it!</bold>",
-            "next": "I've saved my precious passphrase",
+            "description": "Your passphrase is like your secret handshake and decoder ring. Keep it safe. <bold>Seriously, don't lose it, or we'll send the gnomes.</bold>",
+            "next": "I've hidden my passphrase safely",
             "passphraseFrameLabel": "Passphrase",
             "title": "Your passphrase"
         },
         "hasAccount": "Already have an account? <0>Login here.</0>",
         "login": {
-            "description": "Enter your passphrase to unlock your Netflish account.",
+            "description": "Please enter your passphrase to unlock the Netflish goodness.",
             "deviceLengthError": "Please enter a device name",
             "passphraseLabel": "12-Word passphrase",
             "passphrasePlaceholder": "Passphrase",
             "submit": "Login",
             "title": "Login to your account",
-            "validationError": "Incorrect or incomplete passphrase. Ish is disappointed. /ᐠ. .ᐟ\\"
+            "validationError": "Incorrect or incomplete passphrase. The Netflish spirits are displeased. /ᐠ. .ᐟ\\"
         },
         "register": {
             "information": {
                 "color1": "Profile color one",
                 "color2": "Profile color two",
-                "header": "Name your device, pick some cool colors, and an icon. Make Ish proud!",
+                "header": "Name your device, pick some snazzy colors, and an icon. Express yourself!",
                 "icon": "User icon",
                 "next": "Next",
                 "title": "Account information"
@@ -60,7 +60,7 @@
         },
         "trust": {
             "failed": {
-                "text": "Did you configure it correctly? Ish is watching.",
+                "text": "Did you configure it correctly? The interwebs are a fickle mistress.",
                 "title": "Failed to reach server"
             },
             "noHostTitle": "Server not configured!",
@@ -68,12 +68,12 @@
             "host": "You are connecting to <0>{{hostname}}</0> - please confirm you trust it before making an account...",
             "no": "Go back",
             "title": "Do you trust this server?",
-            "yes": "I trust this server 🤞"
+            "yes": "I trust this server 🤞 (what could go wrong?)"
         },
         "verify": {
-            "description": "Enter your passphrase again. Ish needs to know you're serious about this.",
+            "description": "Enter your passphrase again. Just to be sure you weren't dreaming.",
             "invalidData": "Data is not valid",
-            "noMatch": "Passphrase doesn't match 😭 Try again!",
+            "noMatch": "Passphrase doesn't match 😭 Did you write it on a napkin?",
             "passphraseLabel": "Your 12-word passphrase",
             "recaptchaFailed": "ReCaptcha validation failed",
             "register": "Create account",
@@ -81,25 +81,25 @@
         }
     },
     "errors": {
-        "badge": "Ish Broke It 💀",
-        "details": "Error details (blame Ish)",
-        "reloadPage": "Reload the page (Ish's orders)",
+        "badge": "It Died 💀",
+        "details": "Error details (if you dare)",
+        "reloadPage": "Reload the page (the ol' IT fix)",
         "showError": "Show error details",
-        "title": "Whoops! Something went sideways."
+        "title": "Whoops! Something went spectacularly wrong."
     },
     "footer": {
         "legal": {
             "disclaimer": "Disclaimer ◝(ᵔᵕᵔ)◜",
-            "disclaimerText": "Please note: Netflish (Ish's baby) doesn't host files. It just shows content from 3rd parties. Legal stuff? Talk to them."
+            "disclaimerText": "Please note: Netflish doesn't host files. We're just charming Cicerones to 3rd party content. Legal eagles, talk to them."
         },
         "links": {
             "discord": "Discord",
             "dmca": "DMCA",
-            "github": "GitHub (Ish's Code Lair)",
+            "github": "GitHub (Our Mad Science Lab)",
             "twitter": "Twitter",
-            "funding": "Support Ish"
+            "funding": "Support Us (Keep the Lights On!)"
         },
-        "tagline": "Netflish: Your ad-free escape, brought to you by Ish! (っ'ヮ'c)"
+        "tagline": "Netflish: Your ad-free portal to questionable life choices. Enjoy! (っ'ヮ'c)"
     },
     "global": {
         "name": "Netflish",
@@ -110,11 +110,11 @@
             "support": "Support",
             "login": "Login",
             "onboarding": "Setup",
-            "pagetitle": "{{title}} - Netflish by Ish",
+            "pagetitle": "{{title}} - Netflish",
             "register": "Register",
             "settings": "Settings",
             "migration": "Migrate Account",
-            "jip": "The Ish Story"
+            "jip": "The Origin Story"
         }
     },
     "home": {
@@ -128,26 +128,26 @@
             "stopEditing": "Stop editing"
         },
         "search": {
-            "allResults": "That's all Ish could find...",
-            "failed": "Ish failed to find media, try again!",
-            "loading": "Ish is looking...",
-            "noResults": "Ish couldn't find anything :(",
+            "allResults": "That's all the rabbits we could pull from the hat...",
+            "failed": "Search failed. Maybe the internet is napping?",
+            "loading": "Summoning results...",
+            "noResults": "We found... nothing. Awkward. :(",
             "placeholder": {
-                "default": "What does Ish need to find for you?",
+                "default": "What deliciousness are we watching today?",
                 "extra": [
-                    "What are you in the mood for?",
-                    "Tell Ish your deepest streaming desires.",
-                    "Netflish: Better than your ex.",
-                    "Ish's picks are always hot.",
-                    "What's on your naughty list today?"
+                    "What are you in the mood for, champ?",
+                    "Tell Netflish your deepest, darkest streaming desires.",
+                    "Is your boss looking? Quick, search!",
+                    "Our search bar doesn't judge.",
+                    "What's on your 'totally productive' list today?"
                 ]
             },
             "empty": {
-                "default": "Welcome to Netflish! Ish built this for you.",
+                "default": "Welcome to Netflish! Let the binging commence.",
                 "extra": [
-                    "So empty... Ish is sad.",
-                    "Let's fill this void. With movies!",
-                    "Hi new user :3 Ish welcomes you!"
+                    "So empty... like my soul before coffee.",
+                    "Let's fill this void with cinematic gold!",
+                    "Hi new user :3 You look like trouble. We like trouble."
                 ]
             },
             "sectionTitle": "Search results",
@@ -161,39 +161,39 @@
         },
         "titles": {
             "day": {
-                "default": "What's your afternoon vice?",
+                "default": "What's your afternoon escape plan?",
                 "extra": [
-                    "Ish suggests a 'work break'. Wink wink. 😏",
-                    "Sun's out, screens out. Thanks, Ish! 🎬",
-                    "Let Netflish spice up your siesta. 🔥"
+                    "Productivity is overrated. Netflish isn't. 😏",
+                    "Making the most of 'flexible' work hours? 🎬",
+                    "Let Netflish be your alibi. 🔥"
                 ]
             },
             "morning": {
-                "default": "What forbidden fruit this morning?",
+                "default": "What trouble are we getting into this morning?",
                 "extra": [
-                    "Ish's serving breakfast in bed... with Netflish. 😉",
-                    "Good morning! Ready to sin a little? 😈",
-                    "Your daily dose of distraction, by Ish. 🔥"
+                    "Netflish: Part of a balanced breakfast. 😉",
+                    "Good morning! Let's choose our first sin. 😈",
+                    "Your daily dose of 'why not?' starts now. 🔥"
                 ]
             },
             "night": {
-                "default": "What are we watching tonight, gorgeous?",
+                "default": "What kind of mischief are we streaming tonight?",
                 "extra": [
-                    "Netflish & chill? Ish approves. 😉",
-                    "Let Ish set the mood for your night. 🔥",
-                    "Darkness falls. Netflish calls. (Ish made sure of it) 😈"
+                    "Netflish & questionable decisions? Perfect. 😉",
+                    "Let's make tonight memorable (or forgettable). 🔥",
+                    "The darker the night, the brighter the screen. 😈"
                 ]
             },
             "420": {
-                "default": "What's blazing on Netflish this 4/20?",
+                "default": "What's cookin' on Netflish this 4/20?",
                 "extra": [
-                    "Happy 4/20 🥳! Ish packed the good stuff."
+                    "Happy 4/20 🥳! Snacks acquired?"
                 ]
             },
             "69": {
-                "default": "Feeling a little Netflish and naughty?",
+                "default": "Feeling a bit Netflish and... adventurous?",
                 "extra": [
-                    "Happy 69 day 😘! Ish has some stimulating suggestions."
+                    "Happy 69 day 😘! Find something... *nice*."
                 ]
             }
         }
@@ -260,8 +260,8 @@
             "recaptchaLabel": "ReCaptcha Key (Optional)",
             "toggleLable": "Needs ReCaptcha?",
             "status": {
-                "error": "Failed to migrate your data. 😿",
-                "success": "Your data has been migrated successfully! 🎉"
+                "error": "Failed to migrate your data. 😿 The data gremlins strike again.",
+                "success": "Your data has been migrated successfully! 🎉 Go forth and stream."
             },
             "button": {
                 "migrate": "Migrate",
@@ -279,8 +279,8 @@
                 "progress": "Watch progress"
             },
             "status": {
-                "error": "Failed to download your data. 😿",
-                "success": "Your data has been downloaded successfully! 🎉"
+                "error": "Failed to download your data. 😿 Is your hard drive full of cat videos?",
+                "success": "Your data has been downloaded successfully! 🎉 Guard it with your life."
             },
             "button": {
                 "download": "Download data",
@@ -292,9 +292,9 @@
             "title": "Upload data",
             "description": "Upload your previously exported data file to restore your bookmarks and progress on this account.",
             "status": {
-                "processing": "Processing data...",
-                "error": "Failed to upload your data. 😿",
-                "success": "Your data has been uploaded successfully! 🎉"
+                "processing": "Processing data... (insert elevator music)",
+                "error": "Failed to upload your data. 😿 Did you try turning it off and on again?",
+                "success": "Your data has been uploaded successfully! 🎉 Welcome back, prodigal streamer."
             },
             "file": {
                 "description": "Select the file you want to upload",
@@ -319,126 +319,126 @@
     },
     "navigation": {
         "banner": {
-            "offline": "Check your internet connection, silly goose! 🦢"
+            "offline": "Check your internet connection, silly goose! 🦢 The streams can't flow without the juice."
         },
         "menu": {
             "about": "About Netflish",
-            "logout": "Log out",
+            "logout": "Log out (sad to see you go!)",
             "register": "Sync to Cloud",
             "settings": "Settings",
             "support": "Support",
             "discover": "Discover",
-            "development": "Development (Ish's Playground)"
+            "development": "Development (Danger Zone!)"
         }
     },
     "notFound": {
-        "badge": "Not found",
+        "badge": "Not found (Oops!)",
         "goHome": "Back to Netflish home",
-        "reloadButton": "Try again",
-        "message": "We looked everywhere: under the bins, in the closet, behind the proxy, but ultimately couldn't find the page you are looking for. Even Ish is stumped. (ಥ﹏ಥ)",
+        "reloadButton": "Try again (pretty please?)",
+        "message": "We looked everywhere: under the digital couch cushions, in the server's dusty corners... but couldn't find that page. Maybe it eloped with a pop-up ad? (ಥ﹏ಥ)",
         "title": "Couldn't find that page"
     },
     "downtimeNotice": {
-        "badge": "Issues",
+        "badge": "Issues (Gulp!)",
         "goHome": "Go home",
-        "message": "Netflish (Ish's creation) is having a moment with some providers. If you can't find/play something, try another source. Expect hiccups.",
+        "message": "Netflish is having a tiny hiccup with some providers. If you can't find/play something, try another source. We're feeding the hamsters extra coffee.",
         "title": "Provider issues"
     },
     "onboarding": {
         "defaultConfirm": {
             "cancel": "Cancel",
             "confirm": "Use default setup",
-            "description": "The default setup is okay, but Ish recommends better sources for the full Netflish experience!",
-            "title": "Are you sure?"
+            "description": "The default setup is... fine. But for the *real* Netflish experience, you'll want better sources!",
+            "title": "Are you sure? (Live a little!)"
         },
         "extension": {
             "back": "Go back",
-            "explainer": "Get the Netflish browser extension for the juiciest streams. A simple install, Ish promises. 👌",
-            "explainerIos": "Unfortunately, the browser extension is not supported on iOS, Press <bold>Go back</bold> to choose another option.",
-            "extensionHelp": "Installed the extension but Netflish isn't feeling it? <bold>Open it via your browser's menu</bold> & follow the steps.",
+            "explainer": "Get the Netflish browser extension for the crème de la crème of streams. Simple install, maximum joy. 👌",
+            "explainerIos": "Unfortunately, the browser extension is not supported on iOS. Blame Apple, not us. Press <bold>Go back</bold>.",
+            "extensionHelp": "Installed the extension but Netflish is playing coy? <bold>Open it via your browser's menu</bold> & follow the steps.",
             "linkChrome": "Install Chrome extension",
             "linkFirefox": "Install Firefox extension",
-            "notDetecting": "Installed on Chrome, but Netflish isn't detecting it? Try reloading the page!",
+            "notDetecting": "Installed on Chrome, but Netflish isn't detecting it? Try reloading the page! (The magic refresh)",
             "notDetectingAction": "Reload page",
             "status": {
-                "disallowed": "Extension not enabled here (,,>﹏<,,) Ish is sad.",
+                "disallowed": "Extension not enabled here (,,>﹏<,,) Sad panda.",
                 "disallowedAction": "Enable extension",
-                "failed": "Failed to request status",
-                "loading": "Waiting for you to install the extension",
-                "outdated": "Extension version too old",
-                "success": "Extension is working! Ish is pleased."
+                "failed": "Failed to request status. Gremlins, probably.",
+                "loading": "Waiting for you to install the extension... (tick-tock)",
+                "outdated": "Extension version too old. Update it, you dinosaur!",
+                "success": "Extension is working! High five!"
             },
             "submit": "Continue",
             "title": "Let's start with an extension"
         },
         "proxy": {
             "back": "Go back",
-            "explainer": "The proxy method gets you great streams. A bit more DIY, but Ish believes in you.",
+            "explainer": "The proxy method gets you great streams. A bit more DIY, but you're smart, right?",
             "input": {
-                "errorConnection": "Could not connect to proxy",
-                "errorInvalidUrl": "Not a valid URL",
-                "errorNotProxy": "Expected a proxy but got a website"
+                "errorConnection": "Could not connect to proxy. Is it shy?",
+                "errorInvalidUrl": "Not a valid URL. Try again, Picasso.",
+                "errorNotProxy": "Expected a proxy but got a website. Whoopsie."
             },
-            "link": "Learn how to make a proxy",
+            "link": "Learn how to make a proxy (it's easier than IKEA furniture)",
             "submit": "Submit proxy",
             "title": "Let's make a new proxy"
         },
         "start": {
-            "explainer": "To get the best Netflish streams, choose your method. Ish has options for you.",
+            "explainer": "To get the best Netflish streams, choose your weapon... er, method.",
             "moreInfo": {
-                "button": "More info",
+                "button": "More info (the juicy details)",
                 "title": "Understanding a setup",
                 "explainer": {
-                    "intro": "Netflish (by Ish!) doesn't host videos. It connects to third-party sites. Choose your connection:",
+                    "intro": "Netflish doesn't host videos. It's a magical portal to third-party sites. Choose your portal:",
                     "options": "Your Options:",
                     "extension": "1. Extension",
-                    "extensionDescription": "Most sources, handles tricky sites. Ish's top pick.",
+                    "extensionDescription": "Most sources, handles tricky sites. Our favorite child.",
                     "proxy": "2. Proxy",
-                    "proxyDescription": "Scrapes media, bypasses browser limits. Good alternative.",
+                    "proxyDescription": "Scrapes media, bypasses browser limits. The rebellious teen.",
                     "default": "3. Default Setup",
-                    "defaultDescription": "Uses Netflish's built-in proxy. Easiest, might be slower (shared bandwidth).",
+                    "defaultDescription": "Uses Netflish's built-in proxy. Easiest, might be slower (like dial-up, but not really).",
                     "fedapi": {
                         "fedapi": "Additional: FED API (Private) token",
-                        "fedapiDescription": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Ish highly recommends!"
+                        "fedapiDescription": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Highly, highly recommended (seriously)."
                     },
-                    "outro": "More questions? Ask on the <0>Netflish Discord</0> (Ish might be there!)."
+                    "outro": "More questions? Ask on the <0>Netflish Discord</0>. We bite (playfully)."
                 },
                 "recommended": {
-                    "title": "Not sure what to choose?",
-                    "subtitle": "Ish's Recommended Configurations:",
+                    "title": "Not sure what to choose? (Decisions, decisions...)",
+                    "subtitle": "Netflish's Recommended Configurations:",
                     "desktop": {
                         "title": "Desktop:",
-                        "description": "Extension + FED API (Private)"
+                        "description": "Extension + FED API (Private) = Streaming Nirvana"
                     },
                     "iOS": {
                         "title": "iOS:",
-                        "description": "Custom proxy + FED API (Private)"
+                        "description": "Custom proxy + FED API (Private) = Apple-defying glory"
                     },
                     "android": {
                         "title": "Android:",
-                        "description": "Extension + FED API (Private)"
+                        "description": "Extension + FED API (Private) = Pocket-sized perfection"
                     }
                 }
             },
             "options": {
                 "or": "or",
                 "default": {
-                    "text": "I'll take the basic setup, even if Ish thinks I can do better."
+                    "text": "I'll take the basic setup. I like to live dangerously (vanilla)."
                 },
                 "extension": {
                     "action": "Install extension",
                     "description": "Install browser extension for more sources! Remember to enable it for Netflish.",
-                    "quality": "Best quality + More Sources (Ish's Fav)",
+                    "quality": "Best quality + More Sources (The VIP Experience)",
                     "title": "Browser extension"
                 },
                 "proxy": {
                     "action": "Setup proxy",
                     "description": "Setup a free proxy in 5 mins! Improves loading reliability!",
-                    "quality": "Good quality",
+                    "quality": "Good quality (The Adventurer's Choice)",
                     "title": "Custom proxy"
                 }
             },
-            "title": "Let's get you setup with Netflish (by Ish!) 🥳"
+            "title": "Let's get you setup with Netflish 🥳 (Prepare for awesomeness)"
         }
     },
     "overlays": {
@@ -450,17 +450,17 @@
             "short": "Back"
         },
         "casting": {
-            "enabled": "Casting to device 🎬"
+            "enabled": "Casting to device 🎬 (Showtime!)"
         },
         "menus": {
             "downloads": {
-                "button": "Atempt download",
-                "hlsDownloader": "Or, go to the <0>hls downloader website</0> and paste the playlist URL from below.",
-                "disclaimer": "Downloads are from the provider. Netflish (and Ish) don't control them.",
+                "button": "Atempt download (fingers crossed!)",
+                "hlsDownloader": "Or, go to the <0>hls downloader website</0> and paste the playlist URL from below. (For the tech-savvy)",
+                "disclaimer": "Downloads are from the provider. Netflish is just the messenger.",
                 "copyHlsPlaylist": "Copy HLS playlist link",
                 "downloadSubtitle": "Download current subtitle",
                 "downloadVideo": "Download video",
-                "hlsDisclaimer": "Downloads are direct from provider. Netflish (and Ish) don't control how they're provided.<br /><br />HLS playlist: <bold>not for beginners</bold>. Try other sources for different formats.",
+                "hlsDisclaimer": "Downloads are direct from provider. Netflish doesn't control them.<br /><br />HLS playlist: <bold>not for the faint of heart</bold>. Try other sources for different formats.",
                 "onAndroid": {
                     "1": "Android download: click download, then on new page <bold>tap and hold</bold> video, select <bold>save</bold>.",
                     "shortTitle": "Download / Android",
@@ -480,12 +480,12 @@
             },
             "episodes": {
                 "button": "Episodes",
-                "emptyState": "No episodes this season. Ish is looking into it (sorry :3)...",
+                "emptyState": "No episodes this season. Maybe they're on vacation? (sorry :3)...",
                 "episodeBadge": "E{{episode}}",
-                "loadingError": "Error loading season",
+                "loadingError": "Error loading season. The hamsters are tired.",
                 "loadingList": "Loading...",
                 "loadingTitle": "Loading...",
-                "unairedEpisodes": "Some episodes disabled (not aired yet). Ish can't speed up time.",
+                "unairedEpisodes": "Some episodes disabled (not aired yet). We can't bend time (yet).",
                 "seasons": "Seasons"
             },
             "playback": {
@@ -493,9 +493,9 @@
                 "title": "Playback settings"
             },
             "quality": {
-                "automaticLabel": "Automatic quality",
-                "hint": "Try <0>switching source</0> for different quality options.",
-                "iosNoQuality": "iOS limitations (thanks Apple! - Ish) mean no quality select for this source. Try <0>another source</0>.",
+                "automaticLabel": "Automatic quality (Let Netflish decide your fate)",
+                "hint": "Try <0>switching source</0> for different quality options. Variety is the spice of streams!",
+                "iosNoQuality": "iOS limitations (thanks Apple!) mean no quality select for this source. Try <0>another source</0>.",
                 "title": "Quality"
             },
             "settings": {
@@ -511,19 +511,19 @@
             },
             "sources": {
                 "failed": {
-                    "text": "Error finding videos... Try another source? Ish is trying his best.",
-                    "title": "Failed to scrape"
+                    "text": "Error finding videos... Try another source? Don't give up!",
+                    "title": "Failed to scrape (The internet is a moody beast)"
                 },
                 "noEmbeds": {
-                    "text": "No embeds found. Try a different source. Ish is sad for you.",
+                    "text": "No embeds found. Try a different source. This one's playing shy.",
                     "title": "No embeds found"
                 },
                 "noStream": {
-                    "text": "This source has no streams for this. /ᐠ - ˕ -マ Ⳋ Ish apologizes.",
+                    "text": "This source has no streams for this. /ᐠ - ˕ -マ Ⳋ So sad.",
                     "title": "No stream :("
                 },
                 "title": "Sources",
-                "unknownOption": "Unknown",
+                "unknownOption": "Unknown (Mysterious!)",
                 "editOrder": "Edit order"
             },
             "subtitles": {
@@ -536,113 +536,113 @@
                 "settings": {
                     "backlink": "Custom subtitles",
                     "delay": "Subtitle delay",
-                    "fixCapitals": "Fix capitalization"
+                    "fixCapitals": "Fix capitalization (For the grammar police)"
                 },
                 "title": "Subtitles",
-                "unknownLanguage": "Unknown",
-                "dropSubtitleFile": "Drop subtitle file here! >_< Ish is waiting!",
+                "unknownLanguage": "Unknown (Alien language?)",
+                "dropSubtitleFile": "Drop subtitle file here! >_< We're ready!",
                 "scrapeButton": "Scrape subtitles",
-                "empty": "No provided subtitles for this. Ish is sorry.",
-                "notFound": "None of the available options match your query",
+                "empty": "No provided subtitles for this. Time to learn a new language?",
+                "notFound": "None of the available options match your query. Are you sure you typed that right?",
                 "useNativeSubtitles": "Use native video subtitles",
-                "useNativeSubtitlesDescription": "May fix subtitles when casting and in PiP"
+                "useNativeSubtitlesDescription": "May fix subtitles when casting and in PiP (Fingers crossed!)"
             },
             "watchparty": {
-                "watchpartyItem": "Watch Party",
-                "notice": "Legacy Watch Party might not be available for some sources",
+                "watchpartyItem": "Watch Party (Stream with your squad!)",
+                "notice": "Legacy Watch Party might not be available for some sources (It's vintage, okay?)",
                 "legacyWatchparty": "Use legacy Watch Party"
             }
         },
         "metadata": {
             "api": {
-                "text": "Could not load API metadata, check your internet.",
+                "text": "Could not load API metadata, check your internet. Or sacrifice a goat.",
                 "title": "Failed to load API metadata"
             },
             "dmca": {
-                "badge": "Removed",
-                "text": "This media is gone due to copyright. 😨 Ish can't help here.",
+                "badge": "Removed (Poof!)",
+                "text": "This media is gone due to copyright. 😨 Vanished into the digital ether.",
                 "title": "Media has been removed"
             },
             "extensionPermission": {
                 "badge": "Permission Missing",
                 "button": "Use extension",
-                "text": "You have the Netflish extension, but Ish needs permission to use it. (¬_¬)",
+                "text": "You have the Netflish extension, but we need permission to use it. Pretty please? (¬_¬)",
                 "title": "Configure the extension"
             },
             "failed": {
-                "badge": "Failed",
+                "badge": "Failed (Drama!)",
                 "homeButton": "Go home",
-                "text": "Could not load metadata from TMDB. Check if TMDB is down or blocked.",
+                "text": "Could not load metadata from TMDB. Check if TMDB is down or blocked by your pet hamster.",
                 "title": "Failed to load metadata"
             },
             "notFound": {
-                "badge": "Not found",
+                "badge": "Not found (Hide & Seek Champion)",
                 "homeButton": "Back to Netflish",
-                "text": "Couldn't find that. Removed or you're a URL ninja (naughty!). Ish sees you.",
+                "text": "Couldn't find that. Removed or you're a URL ninja (naughty, naughty, but we're impressed).",
                 "title": "Couldn't find that media."
             }
         },
         "nextEpisode": {
-            "replay": "Replay",
-            "next": "Next episode",
-            "nextSeason": "Next season"
+            "replay": "Replay (Again! Again!)",
+            "next": "Next episode (The addiction is real)",
+            "nextSeason": "Next season (Prepare for more lost sleep)"
         },
         "playbackError": {
-            "badge": "Playback error",
+            "badge": "Playback error (Curses!)",
             "errors": {
-                "errorAborted": "Media fetching aborted by user.",
-                "errorDecode": "Error decoding media resource.",
-                "errorGenericMedia": "Unknown media error. Ish is confused.",
-                "errorNetwork": "Network error fetching media.",
-                "errorNotSupported": "Media or provider not supported."
+                "errorAborted": "Media fetching aborted by user. (Changed your mind?)",
+                "errorDecode": "Error decoding media resource. (It's speaking in tongues.)",
+                "errorGenericMedia": "Unknown media error. (The mystery continues...)",
+                "errorNetwork": "Network error fetching media. (The tubes are clogged.)",
+                "errorNotSupported": "Media or provider not supported. (It's too cool for school.)"
             },
             "homeButton": "Go home",
-            "text": "Error playing media 😖. Try again or a different source! Ish is rooting for you.",
+            "text": "Error playing media 😖. Try again or a different source! Don't let the machines win.",
             "title": "Failed to play video!"
         },
         "scraping": {
             "items": {
-                "failure": "Error occurred (Ish is investigating)",
-                "notFound": "Doesn't have the video (╥﹏╥) Ish feels your pain.",
-                "pending": "Ish is checking for videos..."
+                "failure": "Error occurred (The server hamsters are on strike)",
+                "notFound": "Doesn't have the video (╥﹏╥) Our deepest condolences.",
+                "pending": "Scraping for videos... (Like a digital truffle pig)"
             },
             "notFound": {
-                "badge": "Not found",
+                "badge": "Not found (Vanished!)",
                 "detailsButton": "Show details",
                 "homeButton": "Go home",
                 "discoverButton": "Discover more",
-                "text": "Searched everywhere, can't find it! Netflish (and Ish) don't host media. Click 'Show details' for more.",
-                "title": "Ish couldn't find that"
+                "text": "Searched high and low, can't find it! Netflish doesn't host media, we just point. Click 'Show details' for the nitty-gritty.",
+                "title": "We couldn't find that (sad face)"
             },
             "extensionFailure": {
                 "badge": "Extension disabled",
                 "homeButton": "Go home",
                 "enableExtension": "Enable extension",
                 "title": "Please enable the Netflish extension",
-                "text": "You installed the Netflish extension. Enable it for this site to let Ish work his magic."
+                "text": "You installed the Netflish extension. Enable it for this site to unleash its full power."
             },
             "tips": {
-                "1": "Tap gear to switch sources! (Ish's tip)",
-                "2": "Tap title to copy link!",
-                "3": "Hold SHIFT for widescreen button!",
-                "4": "Some sources are spicier than others!",
-                "5": "Get the extension for more! (Ish insists)",
-                "6": "Hold bookmarks to edit/delete!",
-                "7": "Hold SHIFT + tap title for timed link!",
-                "8": "Set custom subtitle color!",
-                "9": "Migrate account in settings!",
-                "10": "Join the Netflish Discord! (Ish is there)",
-                "11": "Use [ and ] for subtitle timing!",
-                "12": "SPACE or K to play/pause!",
-                "13": "LEFT/RIGHT arrows to skip 5s!",
-                "14": "J/L keys to skip 10s!",
-                "15": "F for fullscreen!",
-                "16": "M for mute!",
-                "17": "UP/DOWN arrows for volume!",
-                "18": "< and > for playback speed!",
-                "19": ". and , for frame-by-frame (paused)!",
-                "20": "C for subtitles!",
-                "21": "Press R to do a barrel roll! (Ish's fav)"
+                "1": "Tap gear to switch sources! (Pro tip!)",
+                "2": "Tap title to copy link! (Sharing is caring!)",
+                "3": "Hold SHIFT for widescreen button! (Cinematic!)",
+                "4": "Some sources are spicier than others! (You know what we mean.)",
+                "5": "Get the extension for more! (It's like a cheat code!)",
+                "6": "Hold bookmarks to edit/delete! (Be the master of your list!)",
+                "7": "Hold SHIFT + tap title for timed link! (Precision sharing!)",
+                "8": "Set custom subtitle color! (Make it pop!)",
+                "9": "Migrate account in settings! (New server, who dis?)",
+                "10": "Join the Netflish Discord! (Where the cool kids are!)",
+                "11": "Use [ and ] for subtitle timing! (Perfect sync!)",
+                "12": "SPACE or K to play/pause! (Basic, but essential!)",
+                "13": "LEFT/RIGHT arrows to skip 5s! (Quick skips!)",
+                "14": "J/L keys to skip 10s! (Bigger skips!)",
+                "15": "F for fullscreen! (Go big or go home!)",
+                "16": "M for mute! (Silence is golden!)",
+                "17": "UP/DOWN arrows for volume! (Pump it up or tone it down!)",
+                "18": "< and > for playback speed! (Fast forward through boring bits!)",
+                "19": ". and , for frame-by-frame (paused)! (Forensic analysis!)",
+                "20": "C for subtitles! (Read along!)",
+                "21": "Press R to do a barrel roll! (Just because you can!)"
             }
         },
         "time": {
@@ -652,91 +652,91 @@
             "shortRemaining": "-{{timeLeft}}"
         },
         "turnstile": {
-            "description": "Prove you're human for Netflish. Ish needs to keep the bots out.",
-            "error": "Humanity verification failed. Clear cache, try again, or switch source (tap gear).",
-            "title": "Are You a Robot 🤖? (Ish hopes not)",
-            "verifyingHumanity": "Verifying your humanity... (^▽^)👍 Ish appreciates it."
+            "description": "Prove you're human for Netflish. We're allergic to bots.",
+            "error": "Humanity verification failed. Clear cache, try again, or switch source (tap gear). Are you a Cylon?",
+            "title": "Are You a Robot 🤖? (Be honest.)",
+            "verifyingHumanity": "Verifying your humanity... (^▽^)👍 (Thanks for not being a toaster.)"
         }
     },
     "support": {
-        "title": "Support Netflish (and Ish)",
-        "text": "Netflish aims to be easy. But Ish knows questions happen. This page helps.",
+        "title": "Support Netflish (We need therapy sometimes too)",
+        "text": "Netflish aims to be easy. But life (and tech) throws curveballs. This page helps.",
         "q1": {
-            "body": "Join the official <0>Netflish discord</0> (Ish hangs out there) or email at the bottom of the page.",
-            "title": "Where can Ish's users get help?"
+            "body": "Join the official <0>Netflish discord</0> (we promise we're friendly-ish) or email us at the bottom.",
+            "title": "Where can I get help for this magnificent beast?"
         },
         "q2": {
-            "body": "We have a <0>GitHub</0> (Ish's code cave) for detailed issues. Or, be a hero and submit a PR to fix it yourself!",
-            "title": "How can I report a bug or issue to Ish?"
+            "body": "We have a <0>GitHub</0> (where code dreams go to... be debugged) for detailed issues. Or, fix it yourself and become a Netflish legend!",
+            "title": "How can I report a bug or issue?"
         }
     },
     "jip": {
-        "title": "The Ish Story: Netflish Genesis",
-        "text": "Netflish wasn't beamed down by aliens. It was lovingly crafted (mostly) by one dude: Ish. He just wanted a cooler way to watch stuff, and decided to share the love.",
+        "title": "The Netflish Origin Story (aka 'Jip')",
+        "text": "Netflish didn't just magically appear. It was lovingly (and sometimes frustratingly) cobbled together by one human (Ish) who just wanted a cooler, ad-free way to watch stuff. And then decided to share. Because sharing is caring, even if it's slightly against the grain.",
         "q1": {
-            "body": "Join the <0>Netflish discord</0> and ask Ish (or the community). Or use the email at the bottom.",
-            "title": "Where can I get help with Ish's creation?"
+            "body": "Join the <0>Netflish discord</0> and ask the creator (Ish) or the awesome community. Or use the email at the bottom.",
+            "title": "Where can I get help for this... creation?"
         },
         "q2": {
-            "body": "Head to Ish's <0>GitHub</0> to report bugs. Feel free to contribute; Ish loves help!",
+            "body": "Head to the <0>GitHub</0> to report bugs. Feel free to contribute; we love free labor (just kidding... mostly).",
             "title": "How can I report a bug in Netflish?"
         }
     },
     "screens": {
         "dmca": {
-            "title": "DMCA"
+            "title": "DMCA (The Fun Police)"
         },
-        "loadingApp": "Loading Netflish (Ish is on it...)",
-        "loadingUser": "Loading your profile (Ish is fetching...)",
+        "loadingApp": "Loading Netflish (Warming up the engines...)",
+        "loadingUser": "Loading your profile (Fetching your awesomeness...)",
         "loadingUserError": {
             "logout": "Logout",
             "reset": "Reset custom server",
-            "text": "Failed to load your profile. Ish is sad.",
+            "text": "Failed to load your profile. The server might be hungover.",
             "reload": "Reload",
-            "textWithReset": "Failed to load profile from custom server. Reset to default? Ish recommends."
+            "textWithReset": "Failed to load profile from custom server. Reset to default? It's usually less drama."
         },
         "migration": {
-            "failed": "Failed to migrate your data. 😿 Ish feels bad.",
-            "inProgress": "Migrating data. Hold tight, Ish is working..."
+            "failed": "Failed to migrate your data. 😿 Our condolences.",
+            "inProgress": "Migrating data. Hold tight, this might take a minute (or ten)..."
         }
     },
     "settings": {
         "account": {
             "accountDetails": {
                 "deviceNameLabel": "Device name",
-                "deviceNamePlaceholder": "Ish's Super Streamer",
+                "deviceNamePlaceholder": "The BingeMobile",
                 "editProfile": "Edit",
                 "logoutButton": "Log out"
             },
             "admin": {
-                "title": "Admin panel (Ish's Tools)",
-                "text": "Tools for testing Netflish's condition. Handle with care.",
+                "title": "Admin panel (The Control Room)",
+                "text": "Tools for testing Netflish's condition. Handle with care, or don't. We're not your mom.",
                 "button": "Check it out"
             },
             "actions": {
                 "delete": {
-                    "button": "Delete account",
-                    "confirmButton": "Delete account",
-                    "confirmDescription": "Really delete? All data gone forever! ૮₍˶Ó﹏Ò ⑅₎ა Ish will miss you.",
-                    "confirmTitle": "Are you sure?",
-                    "text": "Irreversible. All data deleted. No take-backsies. Ish warned you.",
+                    "button": "Delete account (Noooo!)",
+                    "confirmButton": "Delete account (Really? Okay...)",
+                    "confirmDescription": "Really delete? All data gone forever! ૮₍˶Ó﹏Ò ⑅₎ა We'll miss your questionable watch history.",
+                    "confirmTitle": "Are you sure? (This is your final warning!)",
+                    "text": "Irreversible. All data deleted. No take-backsies. Don't say we didn't warn you.",
                     "title": "Delete account"
                 },
                 "migration": {
                     "title": "Account migration",
-                    "text": "Migrate your account or download data. Ish makes it easy.",
+                    "text": "Migrate your account or download data. We make it (relatively) painless.",
                     "button": "Migrate account"
                 },
                 "title": "Actions",
                 "logoutAllDevices": {
-                    "title": "End All Sessions",
-                    "text": "This will sign you out from all devices linked to your account.",
+                    "title": "End All Sessions (The Nuclear Option)",
+                    "text": "This will sign you out from all devices linked to your account. All of them. Everywhere.",
                     "button": "Log Out of All Devices"
                 }
             },
             "devices": {
                 "deviceNameLabel": "Device name",
-                "failed": "Failed to load sessions. Ish is on it.",
+                "failed": "Failed to load sessions. The server hamsters need a break.",
                 "removeDevice": "Remove",
                 "title": "Devices"
             },
@@ -744,13 +744,13 @@
                 "finish": "Finish editing",
                 "firstColor": "Profile color one",
                 "secondColor": "Profile color two",
-                "title": "Edit profile picture",
+                "title": "Edit profile picture (Show us your good side!)",
                 "userIcon": "User icon"
             },
             "register": {
                 "cta": "Get started",
-                "text": "Sync watch progress across devices. Ish thought of everything. ( ̧⸝⸝⍢⸝⸝)ෆ",
-                "title": "Sync to the Cloud"
+                "text": "Sync watch progress across devices. Because who remembers what episode they were on? ( ̧⸝⸝⍢⸝⸝)ෆ",
+                "title": "Sync to the Cloud (It's fluffy up there)"
             },
             "title": "Account"
         },
@@ -758,29 +758,29 @@
             "activeTheme": "Active",
             "themes": {
                 "blue": "Blue",
-                "default": "Default (Ish's Choice)",
+                "default": "Default (Classic Netflish)",
                 "gray": "Gray",
-                "red": "Red",
+                "red": "Red (Fiery!)",
                 "teal": "Teal",
                 "classic": "Classic",
                 "green": "Green",
-                "mocha": "Mocha",
+                "mocha": "Mocha (Mmm, coffee)",
                 "pink": "Pink",
-                "noir": "Noir",
+                "noir": "Noir (For your inner detective)",
                 "ember": "Ember",
-                "acid": "Acid",
+                "acid": "Acid (Trippy!)",
                 "spark": "Spark",
-                "grape": "Grape",
+                "grape": "Grape (Fruity!)",
                 "spiderman": "Spiderman",
                 "forest": "Forest",
                 "wolverine": "Wolverine",
-                "popsicle": "Popsicle",
-                "hulk": "Hulk"
+                "popsicle": "Popsicle (Cool!)",
+                "hulk": "Hulk (Smash!)"
             },
-            "title": "Appearance",
+            "title": "Appearance (Pimp your Netflish)",
             "options": {
                 "discover": "Discover section",
-                "discoverDescription": "Show Discover on Homepage below bookmarks. Enabled by default (Ish likes it).",
+                "discoverDescription": "Show Discover on Homepage below bookmarks. Enabled by default (because discovering is fun!).",
                 "discoverLabel": "Discover section",
                 "modal": "Details modal",
                 "modalDescription": "Show details modal on card click instead of watch page. Proxy/Extension needed for trailer. Disabled by default.",
@@ -789,22 +789,22 @@
         },
         "connections": {
             "server": {
-                "description": "Connect to a custom backend for your data. Enable and add URL. <0>Ish's Instructions.</0>",
+                "description": "Connect to a custom backend for your data. Enable and add URL. <0>Instructions here (if you dare).</0>",
                 "label": "Custom server",
                 "urlLabel": "Custom server URL",
                 "migration": {
-                    "description": "<0>Migrate my data</0> to a new server.",
+                    "description": "<0>Migrate my data</0> to a new server. (Adventure awaits!)",
                     "link": "Migrate my data"
                 },
-                "documentation": "Backend documentation"
+                "documentation": "Backend documentation (For the nerds)"
             },
             "setup": {
                 "doSetup": "Do setup",
                 "errorStatus": {
-                    "description": "One or more setup items need attention. Ish is concerned. 😱",
+                    "description": "One or more setup items need attention. Houston, we have a problem. 😱",
                     "title": "Something needs your attention"
                 },
-                "itemError": "Something wrong with this setting. Redo setup. (ᴗ_ ᴗ。) Ish will guide you.",
+                "itemError": "Something wrong with this setting. Redo setup. (ᴗ_ ᴗ。) Third time's a charm?",
                 "items": {
                     "default": "Default setup",
                     "extension": "Extension",
@@ -812,59 +812,59 @@
                 },
                 "redoSetup": "Redo setup",
                 "successStatus": {
-                    "description": "All set to watch your favorites! (๑>◡<๑) Ish is happy for you.",
+                    "description": "All set to watch your favorites! (๑>◡<๑) Let the good times roll.",
                     "title": "Everything is set up!"
                 },
                 "unsetStatus": {
-                    "description": "Click button to start setup. Ish is waiting.",
+                    "description": "Click button to start setup. Don't be shy.",
                     "title": "You haven't gone through setup"
                 }
             },
-            "title": "Connections",
+            "title": "Connections (Let's get technical)",
             "workers": {
                 "addButton": "Add new worker",
-                "description": "Traffic routed via proxies. Bring your own workers if you like. <0>Ish's Guide.</0>",
+                "description": "Traffic routed via proxies. Bring your own workers if you're feeling fancy. <0>Instructions.</0>",
                 "documentation": "Proxy documentation",
-                "emptyState": "No workers yet (｡•́︿•̀｡), add one below. Ish encourages it.",
+                "emptyState": "No workers yet (｡•́︿•̀｡), add one below. The more the merrier!",
                 "label": "Use custom proxy workers",
                 "urlLabel": "Worker URLs",
-                "urlPlaceholder": "https://",
+                "urlPlaceholder": "https:// (Don't forget this bit!)",
                 "proxyTMDB": {
                     "title": "Proxy TMDB",
-                    "description": "Needed if TMDB blocked by ISP. Disable Discover for better performance with this."
+                    "description": "Needed if TMDB blocked by ISP (those pesky ISPs!). Disable Discover for better performance with this."
                 }
             }
         },
         "preferences": {
             "language": "Application language",
-            "languageDescription": "App language. Only English has Ish's silly stuff 🙁.",
+            "languageDescription": "App language. Only English has our top-tier silliness 🙁.",
             "thumbnail": "Generate thumbnails",
-            "thumbnailDescription": "Videos often lack thumbnails. Enable to generate on-the-fly (can slow video). Ish leaves it to you.",
+            "thumbnailDescription": "Videos often lack thumbnails. Enable to generate on-the-fly (can slow video). Your call, boss.",
             "thumbnailLabel": "Generate thumbnails",
             "autoplay": "Autoplay",
-            "autoplayDescription": "Auto-play next episode. Needs extension, custom proxy, or host-allowed default setup. Ish likes this.",
+            "autoplayDescription": "Auto-play next episode. Needs extension, custom proxy, or host-allowed default setup. For peak laziness.",
             "autoplayLabel": "Autoplay",
             "skipCredits": "Skip End Credits",
-            "skipCreditsDescription": "Auto-play next episode at 99% to skip credits. Disable to wait till end. Your call, says Ish.",
+            "skipCreditsDescription": "Auto-play next episode at 99% to skip credits. Disable to wait till end. Choose your destiny.",
             "skipCreditsLabel": "Skip end credits",
             "sourceOrder": "Reordering sources",
-            "sourceOrderDescription": "Drag/drop to reorder sources. Determines check order. Greyed out = <bold>extension</bold> needed. <br><br> <strong>(Ish's default order is usually best)</strong>",
-            "title": "Preferences",
+            "sourceOrderDescription": "Drag/drop to reorder sources. Determines check order. Greyed out = <bold>extension</bold> needed. <br><br> <strong>(Our default order is pretty smart, just sayin')</strong>",
+            "title": "Preferences (Make Netflish YOUR Netflish)",
             "sourceOrderEnableLabel": "Custom source order"
         },
-        "reset": "Reset",
-        "save": "Save",
+        "reset": "Reset (Panic button!)",
+        "save": "Save (Lock it in!)",
         "sidebar": {
             "info": {
                 "appVersion": "App version",
                 "backendUrl": "Backend URL",
                 "backendVersion": "Backend version",
-                "hostname": "Hostname (Netflish by Ish)",
-                "insecure": "Insecure",
-                "notLoggedIn": "You are not logged in",
-                "secure": "Secure",
-                "title": "App stats (Ish's Overview)",
-                "unknownVersion": "Unknown",
+                "hostname": "Hostname (Netflish Central)",
+                "insecure": "Insecure (Living on the edge!)",
+                "notLoggedIn": "You are not logged in (Join the party!)",
+                "secure": "Secure (Like Fort Knox, kinda)",
+                "title": "App stats (The Guts & Glory)",
+                "unknownVersion": "Unknown (It's a mystery!)",
                 "userId": "User ID"
             }
         },
@@ -872,9 +872,9 @@
             "backgroundLabel": "Background opacity",
             "backgroundBlurLabel": "Background blur",
             "colorLabel": "Color",
-            "previewQuote": "Convinced life is meaningless, I lack the courage of my conviction. (Ish's deep thought)",
+            "previewQuote": "Convinced life is meaningless, I lack the courage of my conviction. (Existential, much?)",
             "textSizeLabel": "Text size",
-            "title": "Subtitles",
+            "title": "Subtitles (For when you 'watch' with the sound off)",
             "textBoldLabel": "Bold text",
             "verticalPositionLabel": "Vertical position",
             "default": "Default",
@@ -885,39 +885,39 @@
                 "raised": "Raised",
                 "depressed": "Depressed",
                 "uniform": "Uniform",
-                "dropShadow": "Drop Shadow"
+                "dropShadow": "Drop Shadow (Ooh, fancy!)"
             }
         },
-        "unsaved": "You have unsaved changes... ฅ^•ﻌ•^ฅ Ish is waiting."
+        "unsaved": "You have unsaved changes... ฅ^•ﻌ•^ฅ Don't leave us hanging!"
     },
     "discover": {
         "tabs": {
             "movies": "Movies",
             "tvshows": "TV Shows",
-            "editorpicks": "Ish's Picks"
+            "editorpicks": "Netflish Picks (Trust Us!)"
         },
         "carousel": {
             "title": {
                 "movies": "{{category}} Movies",
                 "tvshows": "{{category}} Shows",
-                "inCinemas": "In Cinemas",
+                "inCinemas": "In Cinemas (If you ever leave the house)",
                 "popularOn": "Popular {{type}} on {{provider}}",
-                "editorPicks": "Ish's Editor Picks"
+                "editorPicks": "Netflish Editor Picks (Hand-picked by gnomes)"
             }
         },
         "providers": {
-            "netflix": "Netflix (The Original)",
+            "netflix": "Netflix (The OG)",
             "appleTv": "Apple TV+",
             "amazonPrime": "Amazon Prime Video",
             "hulu": "Hulu",
             "max": "Max",
             "paramountPlus": "Paramount Plus",
-            "disneyPlus": "Disney Plus",
-            "shudder": "Shudder",
+            "disneyPlus": "Disney Plus (For your inner child, or actual child)",
+            "shudder": "Shudder (Don't watch alone!)",
             "fubuTV": "fubuTV"
         },
         "randomMovie": {
-            "button": "Watch Something Random (Ish's Roulette)",
+            "button": "Watch Something Random (Feeling lucky, punk?)",
             "cancel": "Cancel Countdown",
             "countdown": "{{countdown}}s",
             "nowPlaying": "Now Playing",
@@ -925,50 +925,50 @@
         },
         "page": {
             "title": "Discover Movies & TV on Netflish",
-            "subtitle": "Explore hits & classics, curated by Ish (kinda)."
+            "subtitle": "Explore hits & classics. Your next obsession awaits."
         },
-        "scrollToTop": "Back to top"
+        "scrollToTop": "Back to top (No, YOU scroll!)"
     },
     "fedapi": {
         "onboarding": {
-            "title": "FED API (Private) token",
-            "description": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Ish highly, highly recommends!"
+            "title": "FED API (Private) token (The Secret Sauce)",
+            "description": "Bring your own FREE Febbox account for 4K, Dolby Atmos, skip intro, fastest loads! Seriously, this is the good stuff."
         },
         "setup": {
-            "title": "To get your UI token (Ish's secret method):",
+            "title": "To get your UI token (It's like a treasure hunt!):",
             "showVideo": "Show Video Tutorial",
             "hideVideo": "Hide Video Tutorial",
             "step": {
-                "1": "1. Go to <0>febbox.com</0> & log in (fresh Google account!).",
-                "2": "2. Open DevTools (Inspect).",
+                "1": "1. Go to <0>febbox.com</0> & log in (fresh Google account is best, trust us).",
+                "2": "2. Open DevTools (Right-click, Inspect. You're a hacker now!).",
                 "3": "3. Application tab → Cookies.",
-                "4": "4. Copy 'ui' cookie.",
-                "5": "5. Close tab. DO NOT LOGOUT!",
-                "warning": "(Don't share this token! Ish will know.)"
+                "4": "4. Copy 'ui' cookie. (It's the precious!)",
+                "5": "5. Close tab. DO NOT LOGOUT! (Or the cookie monster will get you).",
+                "warning": "(Don't share this token! Or else...  consecuencias.)"
             }
         },
         "status": {
-            "success": "success (Ish is proud)",
-            "failure": "Failed to fetch 'VIP' stream. Token invalid or API down! Ish is disappointed."
+            "success": "success (You magnificent beast!)",
+            "failure": "Failed to fetch 'VIP' stream. Token invalid or API down! (Sad trombone)"
         }
     },
     "watchParty": {
         "status": {
-            "inSync": "In sync",
-            "outOfSync": "Out of sync"
+            "inSync": "In sync (Like a well-oiled boy band)",
+            "outOfSync": "Out of sync (Like your life choices?)"
         },
-        "alone": "Alone (Ish feels for you)",
-        "withCount": "With {{count}} others",
+        "alone": "Alone (It's okay, we're here for you... digitally)",
+        "withCount": "With {{count}} others (Party time!)",
         "isHost": "Hosting on <0>{{backendName}}</0>",
         "isGuest": "Watching as a guest on <0>{{backendName}}</0>",
-        "hosting": "Hosting",
+        "hosting": "Hosting (You're the DJ of this stream!)",
         "watching": "Watching",
-        "syncing": "Syncing...",
-        "behindHost": "Behind host by {{seconds}} seconds",
-        "aheadOfHost": "Ahead of host by {{seconds}} seconds",
+        "syncing": "Syncing... (Don't cross the streams!)",
+        "behindHost": "Behind host by {{seconds}} seconds (Catch up, slowpoke!)",
+        "aheadOfHost": "Ahead of host by {{seconds}} seconds (Easy there, Flash!)",
         "showStatusOverlay": "Show status overlay",
-        "leaveWatchParty": "Leave Watch Party",
-        "shareCode": "Share this code with friends (click to copy, courtesy of Ish)",
+        "leaveWatchParty": "Leave Watch Party (Don't be a party pooper!)",
+        "shareCode": "Share this code with friends (click to copy). Spread the Netflish love!",
         "connectedAsGuest": "Connected to watch party as guest",
         "hostParty": "Host a Watch Party",
         "joinParty": "Join a Watch Party",
@@ -977,10 +977,10 @@
         "join": "Join",
         "cancel": "Cancel",
         "save": "Save",
-        "emptyRoom": "No one here yet. Ish is lonely.",
-        "invalidRoom": "Unable to connect to this room. Ish is confused.",
-        "contentMismatch": "Cannot join: Content doesn't match host's. (Ish says: oops!)",
-        "episodeMismatch": "Cannot join: Different episode than host. (Ish says: sync up!)",
-        "validating": "Validating watch party..."
+        "emptyRoom": "No one here yet. (Cue tumbleweed)",
+        "invalidRoom": "Unable to connect to this room. (Is it a mirage?)",
+        "contentMismatch": "Cannot join: Content doesn't match host's. (Someone's watching the wrong movie!)",
+        "episodeMismatch": "Cannot join: Different episode than host. (Get on the same page, literally!)",
+        "validating": "Validating watch party... (Checking your credentials...)"
     }
 }
